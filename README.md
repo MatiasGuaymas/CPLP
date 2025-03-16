@@ -1,6 +1,4 @@
-<h1 align="center"> Introducción a los Sistemas Operativos </h1>
-
-### [**Modelos de parciales**](https://github.com/MatiasGuaymas/ISO/tree/main/Parciales)
+<h1 align="center"> Conceptos y Paradigmas de Lenguajes de Programación </h1>
 
 ## Prácticas 
 ### Prácticas PDF [*](https://github.com/MatiasGuaymas/CPLP/tree/main/Practicas%20PDF)
