@@ -3,6 +3,7 @@
 ## Prácticas 
 ### Prácticas PDF [*](https://github.com/MatiasGuaymas/CPLP/tree/main/Practicas%20PDF)
 * [**Práctica 1**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%201%20-%20Resolucion.pdf)
+* [**Práctica 2**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%202%20-%20Sin%20terminar.pdf)
 
 ## Cómo contribuir
 * Darle estrella (Star) al repositorio.
