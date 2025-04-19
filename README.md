@@ -1,5 +1,7 @@
 <h1 align="center"> Conceptos y Paradigmas de Lenguajes de Programación </h1>
 
+### [**Modelos de parciales**](https://github.com/MatiasGuaymas/CPLP/tree/main/Parciales)
+
 ## Prácticas 
 ### Prácticas PDF [*](https://github.com/MatiasGuaymas/CPLP/tree/main/Practicas%20PDF)
 * [**Práctica 1**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%201%20-%20Resolucion.pdf)
