@@ -11,6 +11,7 @@
 * [**Práctica 5**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%205%20-%20Resolucion.pdf)
 * [**Práctica 6**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%206%20-%20Resolucion.pdf)
 * [**Práctica 7**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%207%20-%20Resolucion.pdf)
+* [**Práctica 8**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%208%20-%20Resolucion.pdf)
 
 ## Explicaciones Prácticas
 * [**1-2. Sintaxis**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/01-02-Sintaxis.pdf)
