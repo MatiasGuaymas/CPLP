@@ -4,14 +4,16 @@
 
 ## Prácticas 
 ### Prácticas PDF [*](https://github.com/MatiasGuaymas/CPLP/tree/main/Practicas%20PDF)
-* [**Práctica 1**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%201%20-%20Resolucion.pdf)
-* [**Práctica 2**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%202%20-%20Resolucion.pdf)
-* [**Práctica 3**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%203%20-%20Resolucion.pdf)
-* [**Práctica 4**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%204%20-%20Resolucion.pdf)
-* [**Práctica 5**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%205%20-%20Resolucion.pdf)
-* [**Práctica 6**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%206%20-%20Resolucion.pdf)
-* [**Práctica 7**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%207%20-%20Resolucion.pdf)
-* [**Práctica 8**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%208%20-%20Resolucion.pdf)
+* [**Práctica 1**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2001%20-%20Resolucion.pdf)
+* [**Práctica 2**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2002%20-%20Resolucion.pdf)
+* [**Práctica 3**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2003%20-%20Resolucion.pdf)
+* [**Práctica 4**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2004%20-%20Resolucion.pdf)
+* [**Práctica 5**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2005%20-%20Resolucion.pdf)
+* [**Práctica 6**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2006%20-%20Resolucion.pdf)
+* [**Práctica 7**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2007%20-%20Resolucion.pdf)
+* [**Práctica 8**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2008%20-%20Resolucion.pdf)
+* [**Práctica 9**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2009%20-%20Resolucion.pdf)
+* [**Práctica 10**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2010%20-%20Resolucion.pdf)
 
 ## Explicaciones Prácticas
 * [**1-2. Sintaxis**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/01-02-Sintaxis.pdf)
