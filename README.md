@@ -21,6 +21,7 @@
 * [**4. Semántica Operacional**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/04-Semantica%20Operacional.pdf)
 * [**5. Pila de Ejecución**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/05-Pila%20de%20Ejecucion.pdf)
 * [**6. Pila con Parámetros**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/06-Pila%20con%20Parametros.pdf)
+* [**7. Excepciones**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/07-Excepciones.pdf)
 
 ## Cómo contribuir
 * Darle estrella (Star) al repositorio.
