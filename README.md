@@ -15,9 +15,6 @@
 * [**Práctica 9**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2009%20-%20Resolucion.pdf)
 * [**Práctica 10**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2010%20-%20Resolucion.pdf)
 
-## Trabajo Integrador 2025
-* [**Grupo 06**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/grupo06.pdf)
-
 ## Explicaciones Prácticas
 * [**1-2. Sintaxis**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/01-02-Sintaxis.pdf)
 * [**3. Semántica**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/03-Semantica.pdf)
@@ -25,6 +22,9 @@
 * [**5. Pila de Ejecución**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/05-Pila%20de%20Ejecucion.pdf)
 * [**6. Pila con Parámetros**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/06-Pila%20con%20Parametros.pdf)
 * [**7. Excepciones**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/07-Excepciones.pdf)
+
+## Trabajo Integrador 2025
+* [**Grupo 06**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/grupo06.pdf)
 
 ## Cómo contribuir
 * Darle estrella (Star) al repositorio.
