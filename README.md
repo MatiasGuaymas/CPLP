@@ -15,6 +15,9 @@
 * [**Práctica 9**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2009%20-%20Resolucion.pdf)
 * [**Práctica 10**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/Practica%2010%20-%20Resolucion.pdf)
 
+## Trabajo Integrador 2025
+* [**Grupo 06**](https://github.com/MatiasGuaymas/CPLP/blob/main/Resoluciones/grupo06.pdf)
+
 ## Explicaciones Prácticas
 * [**1-2. Sintaxis**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/01-02-Sintaxis.pdf)
 * [**3. Semántica**](https://github.com/MatiasGuaymas/CPLP/blob/main/Explicaciones/03-Semantica.pdf)
